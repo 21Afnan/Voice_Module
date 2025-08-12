@@ -28,9 +28,9 @@ tts = tts_module()
 class  TextRequest(BaseModel):
     text:str
     #Call its method in your API endpoint:
-    @app.post("/tts/")
-    async def tts_api(request: TextRequest):
-        audio_bytes = await tts.text_to_speech(request.text)
-        audio_b64 = base64.b64encode(audio_bytes).decode("utf-8")
-        return JSONResponse(content={"audio": audio_b64})
+@app.post("/tts/")
+async def tts_api(request: TextRequest):
+    audio_bytes = await tts.text_to_speech(request.text)
+    audio_b64 = base64.b64encode(audio_bytes).decode("utf-8")
+    return JSONResponse(content={"audio": audio_b64})
 
