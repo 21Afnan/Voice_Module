@@ -1,0 +1,7 @@
+fastapi==0.110.0           # For building your API backend endpoints
+pydantic==1.10.14          # Data validation and parsing for API requests/responses
+python-multipart==0.0.9    # To handle file uploads (like audio) via FastAPI
+uvicorn==0.29.0            # ASGI server to run FastAPI applications
+openai==1.40.0             # OpenAI API client to call GPT, Whisper, and TTS services
+numpy==1.26.4              # Numerical operations on audio data arrays
+soundfile==0.12.1          # Read/write audio files (WAV, FLAC) for processing
