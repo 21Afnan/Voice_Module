@@ -1,11 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1A2E,50:16466B,100:5EC8F2&height=190&section=header&text=Voice%20Module&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=First%20prototype%20of%20a%20plug-in%20voice%20layer%20for%20chatbots&descSize=16&descAlignY=58" width="100%" alt="Voice Module"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4A0D2E,50:C2185B,100:FF8FC7&height=190&section=header&text=Voice%20Module&fontSize=50&fontColor=FFFFFF&fontAlignY=36&desc=First%20prototype%20of%20a%20plug-in%20voice%20layer%20for%20chatbots&descSize=16&descAlignY=58" width="100%" alt="Voice Module"/>
 
 <p>
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI"/>
   <img src="https://img.shields.io/badge/OpenAI%20TTS-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI TTS"/>
-  <img src="https://img.shields.io/badge/Status-Prototype-5EC8F2?style=for-the-badge" alt="Prototype"/>
+  <img src="https://img.shields.io/badge/Status-Prototype-FF4FA3?style=for-the-badge" alt="Prototype"/>
 </p>
 
 </div>
@@ -44,8 +44,8 @@ The code is heavily commented, because it was written while learning how async A
 
 **Afnan Shoukat**
 
-<a href="mailto:afnanshoukat35@gmail.com"><img src="https://img.shields.io/badge/Email-afnanshoukat35%40gmail.com-5EC8F2?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0B1A2E" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/afnanshoukat"><img src="https://img.shields.io/badge/LinkedIn-Afnan%20Shoukat-5EC8F2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B1A2E" alt="LinkedIn"/></a>
-<a href="https://github.com/21Afnan"><img src="https://img.shields.io/badge/GitHub-21Afnan-5EC8F2?style=for-the-badge&logo=github&logoColor=white&labelColor=0B1A2E" alt="GitHub"/></a>
+<a href="mailto:afnanshoukat35@gmail.com"><img src="https://img.shields.io/badge/Email-afnanshoukat35%40gmail.com-FF4FA3?style=for-the-badge&logo=gmail&logoColor=white&labelColor=4A0D2E" alt="Email"/></a>
+<a href="https://www.linkedin.com/in/afnanshoukat"><img src="https://img.shields.io/badge/LinkedIn-Afnan%20Shoukat-FF4FA3?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=4A0D2E" alt="LinkedIn"/></a>
+<a href="https://github.com/21Afnan"><img src="https://img.shields.io/badge/GitHub-21Afnan-FF4FA3?style=for-the-badge&logo=github&logoColor=white&labelColor=4A0D2E" alt="GitHub"/></a>
 
 </div>
